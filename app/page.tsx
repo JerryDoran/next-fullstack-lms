@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function Home() {
   return (
-    <main className='flex min-h-screen flex-col items-center justify-between p-24'>
+    <main className='p-5'>
       <p>
         You are one of the first visitors to fullstackfoundations.com, welcome!
       </p>
